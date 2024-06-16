@@ -1,2 +1,3 @@
 Interview question solutions.
-Testing Google Cloud functions with Slack Channel.
+Github commit integration with Google Cloud functions.
+Cloud Functions pushing the meesage in Slack Channel.
